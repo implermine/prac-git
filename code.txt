@@ -1,1 +1,2 @@
 A is inserting row 1
+B is inserting row 2
